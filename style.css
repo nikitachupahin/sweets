@@ -12,6 +12,7 @@ h1 {
 header {
     background-image: url(https://learn.logikaschool.com/uploads/student/2899041/67a71466bcf29.png);
     display: flex;
+    background-size: 100%;
     flex-direction: column-reverse;
     align-items: center;
     justify-content: center;
